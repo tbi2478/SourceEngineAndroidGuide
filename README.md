@@ -62,18 +62,46 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 
 2. Make a zip file containing the main and patch files as follows.
 
-![Google Drawing Alt Text](/Images/Google_Drawing_1.png)
-1. 
+
+1. ![Google Drawing Alt Text](/Images/Google_Drawing_1)
+
+
 2. Rename the folder according the given table
 
-| Game Name | Folder to Rename into
- |
-|---|---|
-| Half-Life 2 | com.nvidia.valvesoftware.halflife2 |
-| Half-Life 2 Episode 1
- | com.nvidia.valvesoftware.halflife2ep1 |
-| Half-Life 2 Episode 2 | com.nvidia.valvesoftware.halflife2ep2 |
-| Portal | com.nvidia.valvesoftware.portal |
+<table>
+  <tr>
+   <td>
+<strong>Game Name</strong>
+   </td>
+   <td>Folder to Rename into
+   </td>
+  </tr>
+  <tr>
+   <td>Half-Life 2
+   </td>
+   <td>com.nvidia.valvesoftware.halflife2
+   </td>
+  </tr>
+  <tr>
+   <td>Half-Life 2 Episode 1
+   </td>
+   <td>com.nvidia.valvesoftware.halflife2ep1
+   </td>
+  </tr>
+  <tr>
+   <td>Half-Life 2 Episode 2
+   </td>
+   <td>com.nvidia.valvesoftware.halflife2ep2
+   </td>
+  </tr>
+  <tr>
+   <td>Portal
+   </td>
+   <td>com.nvidia.valvesoftware.portal
+   </td>
+  </tr>
+</table>
+
 
 3. In your storage directory make a folder titled, ?ScrEng?
 
