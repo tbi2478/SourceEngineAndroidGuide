@@ -62,7 +62,7 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 
 2. Make a zip file containing the main and patch files as follows.
 
-![Google Drawing Alt Text](Google_Drawing_1)
+![Google Drawing Alt Text](/Images/Google_Drawing_1)
 1. 
 2. Rename the folder according the given table
 
@@ -98,4 +98,5 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 # Credits:
 
 [https://www.reddit.com/search/?q=Nvidia+server+Half+Life+2&cId=a9c43b54-d3fa-4db8-8554-254c4b3d0c76&iId=7794ebde-6b4f-4bf2-a269-f8c090137ffa](https://www.reddit.com/search/?q=Nvidia+server+Half+Life+2&cId=a9c43b54-d3fa-4db8-8554-254c4b3d0c76&iId=7794ebde-6b4f-4bf2-a269-f8c090137ffa)
+
 
