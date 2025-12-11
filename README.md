@@ -58,7 +58,7 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 
 1. Just install the patch and main files from the given websites.
 
-![](/images/1q5_Image_1.png)
+![](/Images/1q5_Image_1.png)
 
 2. Make a zip file containing the main and patch files as follows.
 
@@ -77,24 +77,25 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 
 3. In your storage directory make a folder titled, ?ScrEng?
 
-![](/images/lG7_Image_3.png)
+![](/Images/lG7_Image_3.png)
 
 4. Place the Folder Inside of the Directory
 
-![](/images/JAV_Image_4.png)
+![](/Images/JAV_Image_4.png)
 
 5. Now, extract the obb using an app like: z-archiver, first you shall extract the main obb file and then the patch obb file
 
 6. The Extracted File will look like this (you may delete the obb files after this.)
 
-![](/images/f1w_Image_5.png)
+![](/Images/f1w_Image_5.png)
 
 7. Now, you may open the Source Engine. Set you game directory to the one where your game is stored.
 
-![](/images/soy_Image_7.png)
+![](/Images/soy_Image_7.png)
 
-![](/images/ua7_Image_9.png)
+![](/Images/ua7_Image_9.png)
 
 # Credits:
 
 [https://www.reddit.com/search/?q=Nvidia+server+Half+Life+2&cId=a9c43b54-d3fa-4db8-8554-254c4b3d0c76&iId=7794ebde-6b4f-4bf2-a269-f8c090137ffa](https://www.reddit.com/search/?q=Nvidia+server+Half+Life+2&cId=a9c43b54-d3fa-4db8-8554-254c4b3d0c76&iId=7794ebde-6b4f-4bf2-a269-f8c090137ffa)
+
