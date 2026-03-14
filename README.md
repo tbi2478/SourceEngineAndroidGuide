@@ -63,7 +63,7 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 2. Make a zip file containing the main and patch files as follows.
 
 
-1. ![Google Drawing Alt Text](/Images/Google_Drawing_1.png)
+1. ![A](/Images/Google_Drawing_1.png)
 
 
 2. Rename the folder according the given table
@@ -103,7 +103,7 @@ patch.22.com.nvidia.valvesoftware.portal.obb - 755.0 MB
 </table>
 
 
-3. In your storage directory make a folder titled, ?ScrEng?
+3. In your storage directory make a folder titled, "ScrEng"
 
 ![](/Images/lG7_Image_3.png)
 
